@@ -1,0 +1,4 @@
+ŞEN Servis ve Taşımacılık — V4
+ZIP dosyasını çıkarın, index.html dosyasını açın. İletişim bilgileri ayarlar.js dosyasından düzenlenebilir. Fotoğraflar henüz eklenmedi: images/hero-bus.jpg ve images/fleet-bus.jpg. Kuruluş yılı, araç sayısı ve sosyal medya bilgileri belirtilmedi. Site henüz yayınlanmadı.
+
+V6: images klasöründe fotoğraflar bulunur. hero-bus.jpg yapay zekâ ile oluşturulmuş temsili görseldir. arac-03.jpg filigranlı olduğu için galeride gösterilmez; kullanım iznini doğrulayın. Diğer fotoğraflarda plakalar görünmektedir; yayın öncesi kontrol edin.
